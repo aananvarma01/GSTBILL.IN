@@ -1,0 +1,7 @@
+{
+  "name": "GST Invoice & Quotation Generator",
+  "description": "A comprehensive web application for Indian businesses to create, manage, and print GST and Non-GST invoices and quotations. Features include customer and company profile management, automatic calculations, and professional PDF generation.",
+  "requestFramePermissions": [],
+  "C7": [],
+  "aq": []
+}
